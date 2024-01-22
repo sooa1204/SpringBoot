@@ -1,4 +1,4 @@
-# SpringBoot-member + MySQL + Spring Data JPA를 활용한 회원가입 기능 
+# SpringBoot + MySQL + Spring Data JPA를 활용한 회원가입 기능 
 ## 실습 환경
 + Java: 11 
 + JDK: 1.8 
