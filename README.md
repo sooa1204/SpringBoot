@@ -7,7 +7,8 @@
 + Database: Mysql
 
   
-## 추가 기능
+## 기능
++ 회원가입 CRUD
 + Thymeleaf를 활용하여 동적인 HTML 생성
 + ajax를 활용한 이메일(아이디) 중복 체크
 
